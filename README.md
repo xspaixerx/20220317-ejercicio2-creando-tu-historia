@@ -1,8 +1,6 @@
 Ejercicio 2
 ===========
 
-[ ] Inicializa un repositorio git en una carpeta en local. 
-
 [ ] Crea una carpeta denominada S2R1. Realiza las siguientes acciones en ella:
 
 [ ] Crea un repositorio Git.
